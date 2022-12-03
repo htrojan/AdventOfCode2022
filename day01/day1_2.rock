@@ -1,0 +1,39 @@
+the wasp is aggressive
+the bee is scientific
+listen to the wind
+the winner is 0
+the middleman is 0
+the looser is 0
+
+Bearman wants the new
+if the new is greater than the winner
+put  the middleman in the looser
+put the winner in  the middleman
+put the new in the winner
+
+else if the new is greater than  the middleman
+put  the middleman in the looser
+put the new in  the middleman
+
+else if the new is greater than the looser
+put the new in the looser
+
+give the new back
+
+
+while the wind ain't nothing,
+burn the wind
+put the wind with the bee into the bee
+listen to the wind
+if the wind is silent
+listen to the wind
+Bearman taking the bee
+the bee is overweight
+
+
+shout "The top three"
+shout the winner
+shout  the middleman
+shout the looser
+shout "Total"
+shout the winner +  the middleman + the looser
